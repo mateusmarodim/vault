@@ -1,0 +1,1 @@
+Boa tarde. O que ocorreu foi um conflito de permissionamento de um arquivo que tentava ser escrito por duas bibliotecas diferentes. Não havia tratamento de erro para essa situação, e isso causou a queda da API. O código já foi corrigido, a API está funcionando normalmente, e o erro não voltará a ocorrer. A rotina diária de processamento segue schedulada normalmente. 
