@@ -9,3 +9,11 @@ Criação do repositório e início da instalação do ambiente. Problemas encon
 Continuação da instalação do ambiente. Mais problemas encontrados na instalação do tabflex, porém finalizado com sucesso.
 
 Download dos datasets estipulados. Problema na extração do Higgs.
+
+Criação dos requirements para todos os modelos.
+
+---
+
+## Resumo da ópera
+
+Datasets todos baixados, arquivos iniciais criados, e requirements iniciais definidos. Falta o ol
