@@ -16,4 +16,4 @@ Criação dos requirements para todos os modelos.
 
 ## Resumo da ópera
 
-Datasets todos baixados, arquivos iniciais criados, e requirements iniciais definidos. Falta o ol
+Datasets todos baixados, arquivos iniciais criados, e requirements iniciais definidos. Falta o optuna pra tunar o xgboost e mlp.
